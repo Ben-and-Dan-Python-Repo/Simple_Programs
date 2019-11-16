@@ -1,7 +1,7 @@
-str(numb) = 900
+numb = 900
 string = "apples "
 booly = False
-mixy = (string+numb)
+mixy = (string+str(numb))
 if(booly == False):
     print(mixy)
 
