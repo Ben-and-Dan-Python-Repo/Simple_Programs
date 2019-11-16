@@ -7,4 +7,4 @@ if(booly == False);
 
 
 print(type(mixy))
-print(type(bool))
+print(type(booly))
