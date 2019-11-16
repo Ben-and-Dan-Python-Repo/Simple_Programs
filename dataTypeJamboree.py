@@ -8,3 +8,8 @@ if(booly == False):
 
 print(type(mixy))
 print(type(booly))
+
+
+bungus = int(68)
+bongos = int(6.5)
+print(bungus+bongos)
