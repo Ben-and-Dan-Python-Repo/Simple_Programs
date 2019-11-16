@@ -1,4 +1,4 @@
-numb = 900
+str(numb) = 900
 string = "apples "
 booly = False
 mixy = (string+numb)
