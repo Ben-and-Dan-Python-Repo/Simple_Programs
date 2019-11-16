@@ -2,7 +2,7 @@ numb = 900
 string = "apples "
 booly = False
 mixy = (string+numb)
-if(booly == False);
+if(booly == False):
     print(mixy)
 
 
