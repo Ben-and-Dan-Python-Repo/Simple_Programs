@@ -1,10 +1,10 @@
 numb = 900
 string = "apples "
-bool = False
+booly = False
 mixy = (string+numb)
-if(bool == False){
-print(mixy)
-}
+if(booly == False);
+    print(mixy)
 
-type mixy
-type bool
+
+print(type(mixy))
+print(type(bool))
