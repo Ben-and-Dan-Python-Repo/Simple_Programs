@@ -10,6 +10,9 @@ print(type(mixy))
 print(type(booly))
 
 
-bungus = int(68)
+bungus = "hank hill"
 bongos = int(6.5)
-print(bungus+bongos)
+print(bungus, bongos)
+
+for i in range(0,10):
+    print(bungus[i])
